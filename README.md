@@ -1,6 +1,6 @@
 # SAiDL Spring Assignment 2022
 
-This repository is the Spring Induction Assignment of [Society for Artificial Intelligence and Deep Learning](https://github.com/sforaidl/) for the year 2022.
+This repository is the [Spring Induction Assignment](https://github.com/SforAiDl/SAiDL-Spring-2022-Induction-Assignment) of [Society for Artificial Intelligence and Deep Learning](https://github.com/sforaidl/) for the year 2022.
 
 The attempted sections are:
 
